@@ -1,7 +1,7 @@
 # 🛍️ Retail Sales EDA — Customer Shopping Dataset
 
 <p align="center">
-  <img src="outputs/figures/phase4_monthly_trend.png" alt="Monthly Sales Trend" width="720">
+  <img src="https://media.giphy.com/media/W3R7dUBY6gVRmezyEd/giphy.gif" alt="Data Analytics" width="720">
 </p>
 
 <p align="center">
