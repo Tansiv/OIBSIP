@@ -115,4 +115,3 @@ Processed dataset saved to: H:\Data Analyst\OASIS INFOBYTE\OIBSIP\DataAnalytics-
 3. Treat 'Clothing' as a high-frequency traffic driver even where it is not the top revenue earner, since its transaction count of 34,487 indicates strong recurring footfall that can be cross-sold into higher-margin categories.
 
 4. Apply mall-specific category planning rather than a uniform chain-wide strategy, since the Phase 8 heatmap shows each mall location favors a different leading category.
-
